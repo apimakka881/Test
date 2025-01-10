@@ -9,7 +9,7 @@ import os
 BOT_TOKEN = '7973668642:AAEUQDV5J3UFJ067FyScyVWZxACBw4Fv7gw'
 bot = telebot.TeleBot(BOT_TOKEN)
 
-OWNER_IDS = [7513578929, 7513578929]  # IDs of the owners
+OWNER_IDS = [7513578929, 7749807563]  # IDs of the owners
 PREMIUM_FILE = "premium.txt"
 
 def generate_user_agent():
